@@ -1,0 +1,367 @@
+﻿{
+  "players": [
+    {
+      "ID": 0,
+      "username": "Icez",
+      "password": "%11icezicez",
+      "group": -1
+    },
+    {
+      "ID": 1,
+      "username": "Icez123",
+      "password": "%11icezicez",
+      "group": 1
+    },
+    {
+      "ID": 2,
+      "username": "CDY",
+      "password": "115243",
+      "group": 0
+    },
+    {
+      "ID": 3,
+      "username": "CDY",
+      "password": "115243ฟฟ",
+      "group": 1
+    },
+    {
+      "ID": 4,
+      "username": "jowfirsttt",
+      "password": "Kantapat2550",
+      "group": 0
+    },
+    {
+      "ID": 5,
+      "username": "CDY",
+      "password": "115243ฟฟAD",
+      "group": 0
+    },
+    {
+      "ID": 6,
+      "username": "CDY",
+      "password": "115243ฟฟAD",
+      "group": 0
+    },
+    {
+      "ID": 7,
+      "username": "CDY",
+      "password": "115243ฟฟAD",
+      "group": 0
+    },
+    {
+      "ID": 8,
+      "username": "CDY",
+      "password": "115243",
+      "group": 0
+    },
+    {
+      "ID": 9,
+      "username": "CDY",
+      "password": "115243",
+      "group": 0
+    },
+    {
+      "ID": 10,
+      "username": "CDY",
+      "password": "++๔๑๓๒",
+      "group": 0
+    },
+    {
+      "ID": 11,
+      "username": "CDY",
+      "password": "115243",
+      "group": 0
+    },
+    {
+      "ID": 12,
+      "username": "CDY",
+      "password": "115243",
+      "group": 0
+    },
+    {
+      "ID": 13,
+      "username": "CDY1",
+      "password": "115243",
+      "group": 1
+    },
+    {
+      "ID": 14,
+      "username": "CDY",
+      "password": "115243",
+      "group": 0
+    },
+    {
+      "ID": 15,
+      "username": "CDY",
+      "password": "115243",
+      "group": 0
+    },
+    {
+      "ID": 16,
+      "username": "namo",
+      "password": "154935",
+      "group": 1
+    },
+    {
+      "ID": 17,
+      "username": "True",
+      "password": "1235678",
+      "group": 0
+    },
+    {
+      "ID": 18,
+      "username": "True",
+      "password": "987654321",
+      "group": 0
+    },
+    {
+      "ID": 19,
+      "username": "True",
+      "password": "987654321aaaaaaa",
+      "group": 1
+    }
+  ],
+  "groups": [
+    {
+      "ID": 0,
+      "name": "Default",
+      "color": "255, 255, 255, 255",
+      "permissions": [
+        "ModifyTerrain",
+        "SpawnBosses"
+      ]
+    },
+    {
+      "ID": 1,
+      "name": "Member",
+      "color": "255, 255, 255, 255",
+      "permissions": [
+        "ModifyTerrain",
+        "SpawnBosses",
+        "EditWaypoints",
+        "AccessWaypoints"
+      ]
+    }
+  ],
+  "worlds": [
+    {
+      "worldID": 1139786357,
+      "name": "The Calamity!",
+      "BanDestructiveExplosives": false,
+      "TimePaused": false,
+      "TimePausedTime": 0.0,
+      "GraveStonesDisabled": true,
+      "NPCSpawnsDiabled": false,
+      "regions": [
+        {
+          "ID": 0,
+          "name": "Spawn",
+          "x": 4156,
+          "y": 513,
+          "width": 93,
+          "height": 106,
+          "chestsprotected": true,
+          "color": "255, 23, 0, 255",
+          "permissionsGroups": [
+            1
+          ],
+          "permissionsPlayers": []
+        },
+        {
+          "ID": 1,
+          "name": "Farm",
+          "x": 3854,
+          "y": 1409,
+          "width": 250,
+          "height": 142,
+          "chestsprotected": false,
+          "color": "255, 0, 9, 255",
+          "permissionsGroups": [
+            1
+          ],
+          "permissionsPlayers": []
+        }
+      ],
+      "waypoints": [
+        {
+          "name": "Farm",
+          "x": 63638.605,
+          "y": 23062.0
+        },
+        {
+          "name": "hell new",
+          "x": 124897.14,
+          "y": 36278.0
+        },
+        {
+          "name": "NEW Biom 1 ->",
+          "x": 87136.61,
+          "y": 8118.0
+        },
+        {
+          "name": "J caverns 2606",
+          "x": 25695.383,
+          "y": 31190.0
+        },
+        {
+          "name": "sea <-",
+          "x": 3900.2795,
+          "y": 6374.0
+        },
+        {
+          "name": "snow",
+          "x": 99652.26,
+          "y": 9158.0
+        },
+        {
+          "name": "mushroom deep",
+          "x": 69694.95,
+          "y": 32646.0
+        },
+        {
+          "name": "T P",
+          "x": 29086.455,
+          "y": 14886.0
+        },
+        {
+          "name": "g",
+          "x": 27644.0,
+          "y": 19747.0
+        },
+        {
+          "name": "DJ",
+          "x": 108199.91,
+          "y": 27670.0
+        },
+        {
+          "name": "DEEP2",
+          "x": 131769.92,
+          "y": 25942.0
+        },
+        {
+          "name": "DEEP AND SUPER DEEP",
+          "x": 132688.62,
+          "y": 26198.0
+        },
+        {
+          "name": "TOXIC SEA",
+          "x": 128358.24,
+          "y": 9302.0
+        },
+        {
+          "name": "SUPER DEEPDEEP",
+          "x": 131634.72,
+          "y": 33462.0
+        },
+        {
+          "name": "t boss",
+          "x": 56322.16,
+          "y": 9446.0
+        },
+        {
+          "name": "OK",
+          "x": 87769.875,
+          "y": 20615.27
+        },
+        {
+          "name": "T MOON LOL",
+          "x": 3728.1597,
+          "y": 5254.0
+        },
+        {
+          "name": "caverns snow",
+          "x": 100416.91,
+          "y": 22718.26
+        },
+        {
+          "name": "D",
+          "x": 81246.69,
+          "y": 8832.01
+        }
+      ]
+    },
+    {
+      "worldID": 2070665949,
+      "name": "Moo",
+      "BanDestructiveExplosives": false,
+      "TimePaused": false,
+      "TimePausedTime": 0.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": false,
+      "regions": [],
+      "waypoints": [
+        {
+          "name": "home",
+          "x": 67357.695,
+          "y": 36182.0
+        },
+        {
+          "name": "nimi house",
+          "x": 65110.35,
+          "y": 34694.0
+        },
+        {
+          "name": "raper 1",
+          "x": 79134.49,
+          "y": 29830.0
+        },
+        {
+          "name": "mini raper 1",
+          "x": 74953.02,
+          "y": 30166.0
+        },
+        {
+          "name": "wadpara",
+          "x": 85410.56,
+          "y": 29695.438
+        },
+        {
+          "name": "mini house j",
+          "x": 86620.02,
+          "y": 25942.0
+        },
+        {
+          "name": "b",
+          "x": 99737.92,
+          "y": 21110.0
+        },
+        {
+          "name": "mini raper 2",
+          "x": 60834.14,
+          "y": 32438.0
+        },
+        {
+          "name": "mini parer 3",
+          "x": 56514.484,
+          "y": 32150.0
+        },
+        {
+          "name": "1",
+          "x": 50985.895,
+          "y": 29430.0
+        },
+        {
+          "name": "3",
+          "x": 50849.54,
+          "y": 25590.0
+        },
+        {
+          "name": "5",
+          "x": 45814.87,
+          "y": 17030.0
+        },
+        {
+          "name": "6",
+          "x": 47845.21,
+          "y": 16326.0
+        },
+        {
+          "name": "7",
+          "x": 60487.34,
+          "y": 18646.0
+        }
+      ]
+    }
+  ],
+  "version": "0.4.14.1"
+}
