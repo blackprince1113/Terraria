@@ -1,4 +1,4 @@
-[23Dec2023 - 09:23:36]
+[26Dec2023 - 10:23:27]
 // ILCursor: Terraria.Player::ItemCheck_ApplyHoldStyle_Inner
 
 // Arguments:
@@ -345,7 +345,7 @@ IL_00332: ldc.i4       968
 IL_00337: bne.un       IL_00574
 IL_0033C: ldarg.0      
 IL_0033D: ldc.i4       289
-IL_00342: ldc.i4       52766987
+IL_00342: ldc.i4       34364909
 IL_00347: call         T MonoMod.Utils.DynamicReferenceManager::GetValueTUnsafe<System.Delegate>(System.Int32,System.Int32)
 IL_0034C: call         TResult MonoMod.Cil.FastDelegateInvokers::InvokeTypeVal1<System.Boolean,Terraria.Player>(T0,MonoMod.Cil.FastDelegateInvokers/TypeVal1`2<TResult,T0>)
 IL_00351: brtrue       IL_006D7

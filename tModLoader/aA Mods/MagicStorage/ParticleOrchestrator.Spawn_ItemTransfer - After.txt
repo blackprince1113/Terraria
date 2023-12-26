@@ -1,4 +1,4 @@
-[23Dec2023 - 09:23:36]
+[26Dec2023 - 10:23:27]
 // ILCursor: Terraria.GameContent.Drawing.ParticleOrchestrator::Spawn_ItemTransfer
 
 // Arguments:
@@ -68,7 +68,7 @@ IL_00099: call         System.Void Terraria.Chest::AskForChestToEatItem(Microsof
 IL_0009E: ldloc        V_7
 IL_000A2: ldloc        V_5
 IL_000A6: ldc.i4       286
-IL_000AB: ldc.i4       65226127
+IL_000AB: ldc.i4       27571389
 IL_000B0: call         T MonoMod.Utils.DynamicReferenceManager::GetValueTUnsafe<System.Delegate>(System.Int32,System.Int32)
 IL_000B5: call         System.Void MonoMod.Cil.FastDelegateInvokers::InvokeVoidVal2<Microsoft.Xna.Framework.Vector2,System.Int32>(T0,T1,MonoMod.Cil.FastDelegateInvokers/VoidVal2`2<T0,T1>)
 IL_000BA: ldsfld       Terraria.Graphics.Renderers.ParticlePool`1<Terraria.Graphics.Renderers.ItemTransferParticle> Terraria.GameContent.Drawing.ParticleOrchestrator::_poolItemTransfer

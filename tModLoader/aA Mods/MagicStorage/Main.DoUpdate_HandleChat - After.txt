@@ -1,4 +1,4 @@
-[23Dec2023 - 09:23:36]
+[26Dec2023 - 10:23:27]
 // ILCursor: Terraria.Main::DoUpdate_HandleChat
 
 // Arguments:
@@ -137,12 +137,12 @@ IL_0016E: ldsfld       System.Boolean Terraria.Main::chatRelease
 IL_00173: brtrue.s     IL_00176
 IL_00175: ret          
 IL_00176: ldc.i4       293
-IL_0017B: ldc.i4       54019968
+IL_0017B: ldc.i4       60677517
 IL_00180: call         T MonoMod.Utils.DynamicReferenceManager::GetValueTUnsafe<System.Func`1<System.Boolean>>(System.Int32,System.Int32)
 IL_00185: callvirt     TResult System.Func`1<System.Boolean>::Invoke()
 IL_0018A: brfalse      IL_001A4
 IL_0018F: ldc.i4       294
-IL_00194: ldc.i4       60677517
+IL_00194: ldc.i4       66268314
 IL_00199: call         T MonoMod.Utils.DynamicReferenceManager::GetValueTUnsafe<System.Action>(System.Int32,System.Int32)
 IL_0019E: callvirt     System.Void System.Action::Invoke()
 IL_001A3: ret          
